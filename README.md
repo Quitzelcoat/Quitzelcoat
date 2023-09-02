@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quitzelcoat
-- 👀 I’m interested in learning Web Development
-- 🌱 I’m currently learning HTML,CSS,JavaScript
+- 👀 I’m interested in working and learning as a full stack Web Developer.
+- 🌱 I’m currently working as a full stack Web Development.
 - 📫 How to reach me haris76689@gmail.com
 
 <!---
