@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Quitzelcoat
-- 👀 I’m interested in working and learning as a full stack Web Developer.
+- 👋 Hi, I’m Haris Saeed @Quitzelcoat
+- 👀 I’m interested in working and learning as a full stack and mainly React Developer.
 - 🌱 I’m currently working as a full stack Web Development.
 - 📫 How to reach me haris76689@gmail.com
 
